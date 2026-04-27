@@ -64,7 +64,7 @@ export default function Contact() {
             <div className="rounded-2xl border border-white/30 bg-white/40 p-5 backdrop-blur-xl shadow-lg shadow-purple-200/20">
               <h3 className="font-semibold text-gray-900">GitHub</h3>
               <Link
-                href="/github"
+                href="https://github.com/Khushi-1703/url-shortener-in-next.js/tree/main"
                 className="text-sm text-purple-700 mt-1 inline-block hover:underline"
               >
                 View project repository
