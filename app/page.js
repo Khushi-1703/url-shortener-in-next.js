@@ -42,6 +42,7 @@ export default function Home() {
             {/* Secondary CTA */}
             <Link
               href="https://github.com/Khushi-1703"
+              target="_blank"
               className="rounded-2xl border border-white/40 bg-white/50 px-7 py-3 font-semibold text-purple-700 backdrop-blur-md transition-all duration-300 hover:bg-white/70 hover:scale-105"
             >
               GitHub
