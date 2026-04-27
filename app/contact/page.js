@@ -65,6 +65,7 @@ export default function Contact() {
               <h3 className="font-semibold text-gray-900">GitHub</h3>
               <Link
                 href="https://github.com/Khushi-1703/url-shortener-in-next.js/tree/main"
+                target="_blank"
                 className="text-sm text-purple-700 mt-1 inline-block hover:underline"
               >
                 View project repository
