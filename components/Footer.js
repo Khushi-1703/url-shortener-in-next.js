@@ -88,6 +88,7 @@ const Footer = () => {
             </Link>
             <Link
               href="https://github.com/Khushi-1703"
+              target="_blank"
               className="hover:text-white transition-colors duration-300"
             >
               GitHub
