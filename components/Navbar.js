@@ -108,6 +108,7 @@ const Navbar = () => {
 
             <Link
               href="https://github.com/Khushi-1703"
+              target="_blank"
               className="rounded-xl border border-white/10 bg-white/5 px-4 py-2 text-sm font-medium text-purple-100 transition-all duration-300 hover:bg-white/10 hover:text-white"
             >
               GitHub
